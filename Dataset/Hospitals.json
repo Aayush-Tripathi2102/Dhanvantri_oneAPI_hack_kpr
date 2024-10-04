@@ -1,0 +1,1397 @@
+{
+"Sheet1":[
+ {
+  "Hospital Name": "Apollo Hospitals, Greams Road",
+  "City": "Chennai",
+  "Latitude": "13.0604",
+  "Longitude": "80.2496",
+  "Emergency Helpline Number": "+91-44-2829 3333"
+ },
+ {
+  "Hospital Name": "Fortis Malar Hospital",
+  "City": "Chennai",
+  "Latitude": "13.0067",
+  "Longitude": "80.2575",
+  "Emergency Helpline Number": "+91-44-4289 2222"
+ },
+ {
+  "Hospital Name": "MIOT International",
+  "City": "Chennai",
+  "Latitude": "13.0101",
+  "Longitude": "80.1860",
+  "Emergency Helpline Number": "+91-44-4200 2288"
+ },
+ {
+  "Hospital Name": "SIMS Hospital",
+  "City": "Chennai",
+  "Latitude": "13.0827",
+  "Longitude": "80.2123",
+  "Emergency Helpline Number": "+91-44-2000 2001"
+ },
+ {
+  "Hospital Name": "Kauvery Hospital",
+  "City": "Chennai",
+  "Latitude": "13.0314",
+  "Longitude": "80.2528",
+  "Emergency Helpline Number": "+91-44-4000 6000"
+ },
+ {
+  "Hospital Name": "Global Hospitals",
+  "City": "Chennai",
+  "Latitude": "12.9906",
+  "Longitude": "80.2165",
+  "Emergency Helpline Number": "+91-44-4477 7000"
+ },
+ {
+  "Hospital Name": "SRM Institutes for Medical Science (SIMS)",
+  "City": "Chennai",
+  "Latitude": "13.0827",
+  "Longitude": "80.2123",
+  "Emergency Helpline Number": "+91-44-2000 2001"
+ },
+ {
+  "Hospital Name": "Vijaya Hospital",
+  "City": "Chennai",
+  "Latitude": "13.0485",
+  "Longitude": "80.2120",
+  "Emergency Helpline Number": "+91-44-2480 6000"
+ },
+ {
+  "Hospital Name": "Billroth Hospitals",
+  "City": "Chennai",
+  "Latitude": "13.0827",
+  "Longitude": "80.2123",
+  "Emergency Helpline Number": "+91-44-2664 2500"
+ },
+ {
+  "Hospital Name": "Prashanth Hospital",
+  "City": "Chennai",
+  "Latitude": "13.0827",
+  "Longitude": "80.2123",
+  "Emergency Helpline Number": "+91-44-4390 6000"
+ },
+ {
+  "Hospital Name": "Indraprastha Apollo Hospital",
+  "City": "NCR",
+  "Latitude": "28.5462",
+  "Longitude": "77.2732",
+  "Emergency Helpline Number": "+91-11-2692 5858"
+ },
+ {
+  "Hospital Name": "Fortis Escorts Heart Institute",
+  "City": "NCR",
+  "Latitude": "28.5672",
+  "Longitude": "77.2303",
+  "Emergency Helpline Number": "+91-11-2682 5000"
+ },
+ {
+  "Hospital Name": "Max Super Speciality Hospital, Saket",
+  "City": "NCR",
+  "Latitude": "28.5286",
+  "Longitude": "77.2197",
+  "Emergency Helpline Number": "+91-11-2651 5050"
+ },
+ {
+  "Hospital Name": "Sir Ganga Ram Hospital",
+  "City": "NCR",
+  "Latitude": "28.6436",
+  "Longitude": "77.1890",
+  "Emergency Helpline Number": "+91-11-2575 0000"
+ },
+ {
+  "Hospital Name": "BLK-Max Super Speciality Hospital",
+  "City": "NCR",
+  "Latitude": "28.6425",
+  "Longitude": "77.1890",
+  "Emergency Helpline Number": "+91-11-3040 3040"
+ },
+ {
+  "Hospital Name": "Manipal Hospitals, Dwarka",
+  "City": "NCR",
+  "Latitude": "28.5916",
+  "Longitude": "77.0486",
+  "Emergency Helpline Number": "+91-11-4967 4967"
+ },
+ {
+  "Hospital Name": "Sri Balaji Action Medical Institute",
+  "City": "NCR",
+  "Latitude": "28.6738",
+  "Longitude": "77.1102",
+  "Emergency Helpline Number": "+91-11-4288 8888"
+ },
+ {
+  "Hospital Name": "Guru Gobind Singh Government Hospital",
+  "City": "NCR",
+  "Latitude": "28.6540",
+  "Longitude": "77.1071",
+  "Emergency Helpline Number": "+91-11-2598 8532"
+ },
+ {
+  "Hospital Name": "Kukreja Hospital",
+  "City": "NCR",
+  "Latitude": "28.6495",
+  "Longitude": "77.1139",
+  "Emergency Helpline Number": "+91-11-2544 2544"
+ },
+ {
+  "Hospital Name": "AIIMS (All India Institute of Medical Sciences)",
+  "City": "NCR",
+  "Latitude": "28.5672",
+  "Longitude": "77.2100",
+  "Emergency Helpline Number": "+91-11-2658 8500"
+ },
+ {
+  "Hospital Name": "Medanta - The Medicity",
+  "City": "NCR",
+  "Latitude": "28.4595",
+  "Longitude": "77.0266",
+  "Emergency Helpline Number": "+91-124-4141 414"
+ },
+ {
+  "Hospital Name": "Artemis Hospital",
+  "City": "NCR",
+  "Latitude": "28.4595",
+  "Longitude": "77.0720",
+  "Emergency Helpline Number": "+91-124-4511 111"
+ },
+ {
+  "Hospital Name": "Max Hospital, Gurgaon",
+  "City": "NCR",
+  "Latitude": "28.4595",
+  "Longitude": "77.0720",
+  "Emergency Helpline Number": "+91-124-6623 000"
+ },
+ {
+  "Hospital Name": "Columbia Asia Hospital",
+  "City": "NCR",
+  "Latitude": "28.4595",
+  "Longitude": "77.0720",
+  "Emergency Helpline Number": "+91-124-6165 666"
+ },
+ {
+  "Hospital Name": "Paras Hospitals",
+  "City": "NCR",
+  "Latitude": "28.4595",
+  "Longitude": "77.0720",
+  "Emergency Helpline Number": "+91-124-4585 555"
+ },
+ {
+  "Hospital Name": "Fortis Hospital, Noida",
+  "City": "NCR",
+  "Latitude": "28.5355",
+  "Longitude": "77.3910",
+  "Emergency Helpline Number": "+91-120-2400 222"
+ },
+ {
+  "Hospital Name": "Jaypee Hospital",
+  "City": "NCR",
+  "Latitude": "28.5355",
+  "Longitude": "77.3910",
+  "Emergency Helpline Number": "+91-120-4122 222"
+ },
+ {
+  "Hospital Name": "Kailash Hospital",
+  "City": "NCR",
+  "Latitude": "28.5355",
+  "Longitude": "77.3910",
+  "Emergency Helpline Number": "+91-120-2444 444"
+ },
+ {
+  "Hospital Name": "Yatharth Super Speciality Hospital",
+  "City": "NCR",
+  "Latitude": "28.5355",
+  "Longitude": "77.3910",
+  "Emergency Helpline Number": "+91-120-4500 500"
+ },
+ {
+  "Hospital Name": "Sharda Hospital",
+  "City": "NCR",
+  "Latitude": "28.5355",
+  "Longitude": "77.3910",
+  "Emergency Helpline Number": "+91-120-2333 333"
+ },
+ {
+  "Hospital Name": "Kokilaben Dhirubhai Ambani Hospital",
+  "City": "Mumbai",
+  "Latitude": "19.1300",
+  "Longitude": "72.8360",
+  "Emergency Helpline Number": "+91-22-3099 9999"
+ },
+ {
+  "Hospital Name": "Lilavati Hospital",
+  "City": "Mumbai",
+  "Latitude": "19.0500",
+  "Longitude": "72.8290",
+  "Emergency Helpline Number": "+91-22-2675 1000"
+ },
+ {
+  "Hospital Name": "Tata Memorial Hospital",
+  "City": "Mumbai",
+  "Latitude": "18.9388",
+  "Longitude": "72.8364",
+  "Emergency Helpline Number": "+91-22-2417 7000"
+ },
+ {
+  "Hospital Name": "Nanavati Hospital",
+  "City": "Mumbai",
+  "Latitude": "19.0960",
+  "Longitude": "72.8360",
+  "Emergency Helpline Number": "+91-22-2626 7500"
+ },
+ {
+  "Hospital Name": "Jaslok Hospital",
+  "City": "Mumbai",
+  "Latitude": "18.9696",
+  "Longitude": "72.8090",
+  "Emergency Helpline Number": "+91-22-6657 8888"
+ },
+ {
+  "Hospital Name": "Hiranandani Hospital",
+  "City": "Mumbai",
+  "Latitude": "19.1180",
+  "Longitude": "72.9090",
+  "Emergency Helpline Number": "+91-22-2576 3300"
+ },
+ {
+  "Hospital Name": "Wockhardt Hospital",
+  "City": "Mumbai",
+  "Latitude": "18.9640",
+  "Longitude": "72.8250",
+  "Emergency Helpline Number": "+91-22-6178 4444"
+ },
+ {
+  "Hospital Name": "Breach Candy Hospital",
+  "City": "Mumbai",
+  "Latitude": "18.9720",
+  "Longitude": "72.8070",
+  "Emergency Helpline Number": "+91-22-2366 7788"
+ },
+ {
+  "Hospital Name": "Saifee Hospital",
+  "City": "Mumbai",
+  "Latitude": "18.9540",
+  "Longitude": "72.8190",
+  "Emergency Helpline Number": "+91-22-6757 0111"
+ },
+ {
+  "Hospital Name": "Bombay Hospital",
+  "City": "Mumbai",
+  "Latitude": "18.9420",
+  "Longitude": "72.8320",
+  "Emergency Helpline Number": "+91-22-2206 7676"
+ },
+ {
+  "Hospital Name": "Apollo Hospital, Bannerghatta Road",
+  "City": "Bangalore",
+  "Latitude": "12.8948",
+  "Longitude": "77.5986",
+  "Emergency Helpline Number": "+91-80-2630 4050"
+ },
+ {
+  "Hospital Name": "Fortis Hospital, Bannerghatta Road",
+  "City": "Bangalore",
+  "Latitude": "12.8948",
+  "Longitude": "77.5986",
+  "Emergency Helpline Number": "+91-80-6621 4444"
+ },
+ {
+  "Hospital Name": "Manipal Hospital, Old Airport Road",
+  "City": "Bangalore",
+  "Latitude": "12.9600",
+  "Longitude": "77.6480",
+  "Emergency Helpline Number": "+91-80-2502 4444"
+ },
+ {
+  "Hospital Name": "Narayana Health City",
+  "City": "Bangalore",
+  "Latitude": "12.8340",
+  "Longitude": "77.6780",
+  "Emergency Helpline Number": "+91-80-7122 2222"
+ },
+ {
+  "Hospital Name": "Columbia Asia Hospital, Hebbal",
+  "City": "Bangalore",
+  "Latitude": "13.0350",
+  "Longitude": "77.5910",
+  "Emergency Helpline Number": "+91-80-6165 6666"
+ },
+ {
+  "Hospital Name": "MS Ramaiah Memorial Hospital",
+  "City": "Bangalore",
+  "Latitude": "13.0284",
+  "Longitude": "77.5696",
+  "Emergency Helpline Number": "+91-80-2360 8888"
+ },
+ {
+  "Hospital Name": "Aster CMI Hospital",
+  "City": "Bangalore",
+  "Latitude": "13.0580",
+  "Longitude": "77.5920",
+  "Emergency Helpline Number": "+91-80-4342 0100"
+ },
+ {
+  "Hospital Name": "BGS Gleneagles Global Hospital",
+  "City": "Bangalore",
+  "Latitude": "12.9200",
+  "Longitude": "77.5440",
+  "Emergency Helpline Number": "+91-80-2625 5555"
+ },
+ {
+  "Hospital Name": "Sparsh Hospital",
+  "City": "Bangalore",
+  "Latitude": "12.9716",
+  "Longitude": "77.5946",
+  "Emergency Helpline Number": "+91-80-6122 2222"
+ },
+ {
+  "Hospital Name": "Sakra World Hospital",
+  "City": "Bangalore",
+  "Latitude": "12.9350",
+  "Longitude": "77.6950",
+  "Emergency Helpline Number": "+91-80-4969 4969"
+ },
+ {
+  "Hospital Name": "Apollo Hospitals, Jubilee Hills",
+  "City": "Hyderabad",
+  "Latitude": "17.4230",
+  "Longitude": "78.4080",
+  "Emergency Helpline Number": "+91-40-2360 7777"
+ },
+ {
+  "Hospital Name": "Yashoda Hospitals, Secunderabad",
+  "City": "Hyderabad",
+  "Latitude": "17.4390",
+  "Longitude": "78.4980",
+  "Emergency Helpline Number": "+91-40-4567 4567"
+ },
+ {
+  "Hospital Name": "KIMS Hospital, Secunderabad",
+  "City": "Hyderabad",
+  "Latitude": "17.4390",
+  "Longitude": "78.4980",
+  "Emergency Helpline Number": "+91-40-4488 5000"
+ },
+ {
+  "Hospital Name": "Continental Hospitals",
+  "City": "Hyderabad",
+  "Latitude": "17.4230",
+  "Longitude": "78.4080",
+  "Emergency Helpline Number": "+91-40-6700 0000"
+ },
+ {
+  "Hospital Name": "Care Hospitals, Banjara Hills",
+  "City": "Hyderabad",
+  "Latitude": "17.4230",
+  "Longitude": "78.4080",
+  "Emergency Helpline Number": "+91-40-3041 3041"
+ },
+ {
+  "Hospital Name": "AIG Hospitals",
+  "City": "Hyderabad",
+  "Latitude": "17.4230",
+  "Longitude": "78.4080",
+  "Emergency Helpline Number": "+91-40-7132 7132"
+ },
+ {
+  "Hospital Name": "Sunshine Hospitals",
+  "City": "Hyderabad",
+  "Latitude": "17.4230",
+  "Longitude": "78.4080",
+  "Emergency Helpline Number": "+91-40-4455 0000"
+ },
+ {
+  "Hospital Name": "Rainbow Children’s Hospital",
+  "City": "Hyderabad",
+  "Latitude": "17.4230",
+  "Longitude": "78.4080",
+  "Emergency Helpline Number": "+91-40-2461 8969"
+ },
+ {
+  "Hospital Name": "Medicover Hospitals",
+  "City": "Hyderabad",
+  "Latitude": "17.4230",
+  "Longitude": "78.4080",
+  "Emergency Helpline Number": "+91-40-6833 3333"
+ },
+ {
+  "Hospital Name": "Virinchi Hospitals",
+  "City": "Hyderabad",
+  "Latitude": "17.4230",
+  "Longitude": "78.4080",
+  "Emergency Helpline Number": "+91-40-4699 9999"
+ },
+ {
+  "Hospital Name": "Apollo Gleneagles Hospital",
+  "City": "Kolkata",
+  "Latitude": 22.5726,
+  "Longitude": 88.3639,
+  "Emergency Helpline Number": "+91-33-2320 3040"
+ },
+ {
+  "Hospital Name": "Fortis Hospital, Anandapur",
+  "City": "Kolkata",
+  "Latitude": 22.5375,
+  "Longitude": 88.4003,
+  "Emergency Helpline Number": "+91-33-6628 4444"
+ },
+ {
+  "Hospital Name": "AMRI Hospitals, Dhakuria",
+  "City": "Kolkata",
+  "Latitude": 22.5016,
+  "Longitude": 88.366,
+  "Emergency Helpline Number": "+91-33-2461 5271"
+ },
+ {
+  "Hospital Name": "Medica Superspecialty Hospital",
+  "City": "Kolkata",
+  "Latitude": 22.5146,
+  "Longitude": 88.4033,
+  "Emergency Helpline Number": "+91-33-6652 0000"
+ },
+ {
+  "Hospital Name": "Ruby General Hospital",
+  "City": "Kolkata",
+  "Latitude": 22.5146,
+  "Longitude": 88.4033,
+  "Emergency Helpline Number": "+91-33-3987 3333"
+ },
+ {
+  "Hospital Name": "Desun Hospital",
+  "City": "Kolkata",
+  "Latitude": 22.5146,
+  "Longitude": 88.4033,
+  "Emergency Helpline Number": "+91-33-7122 2000"
+ },
+ {
+  "Hospital Name": "Peerless Hospital",
+  "City": "Kolkata",
+  "Latitude": 22.5146,
+  "Longitude": 88.4033,
+  "Emergency Helpline Number": "+91-33-2462 2391"
+ },
+ {
+  "Hospital Name": "Columbia Asia Hospital",
+  "City": "Kolkata",
+  "Latitude": 22.5726,
+  "Longitude": 88.3639,
+  "Emergency Helpline Number": "+91-33-3989 8969"
+ },
+ {
+  "Hospital Name": "Woodlands Multispeciality Hospital",
+  "City": "Kolkata",
+  "Latitude": 22.5146,
+  "Longitude": 88.4033,
+  "Emergency Helpline Number": "+91-33-4033 4033"
+ },
+ {
+  "Hospital Name": "Bhagirathi Neotia Woman and Child Care Centre",
+  "City": "Kolkata",
+  "Latitude": 22.5726,
+  "Longitude": 88.3639,
+  "Emergency Helpline Number": "+91-33-4040 5050"
+ },
+ {
+  "Hospital Name": "Aditya Birla Memorial Hospital",
+  "City": "Pune",
+  "Latitude": 18.6186,
+  "Longitude": 73.7806,
+  "Emergency Helpline Number": "+91-20-3071 7500"
+ },
+ {
+  "Hospital Name": "Jehangir Hospital",
+  "City": "Pune",
+  "Latitude": 18.5204,
+  "Longitude": 73.8567,
+  "Emergency Helpline Number": "+91-20-6681 9999"
+ },
+ {
+  "Hospital Name": "Ruby Hall Clinic",
+  "City": "Pune",
+  "Latitude": 18.5204,
+  "Longitude": 73.8567,
+  "Emergency Helpline Number": "+91-20-2616 3391"
+ },
+ {
+  "Hospital Name": "Deenanath Mangeshkar Hospital",
+  "City": "Pune",
+  "Latitude": 18.5204,
+  "Longitude": 73.8567,
+  "Emergency Helpline Number": "+91-20-4015 1000"
+ },
+ {
+  "Hospital Name": "Sahyadri Hospitals",
+  "City": "Pune",
+  "Latitude": 18.5204,
+  "Longitude": 73.8567,
+  "Emergency Helpline Number": "+91-20-6721 5000"
+ },
+ {
+  "Hospital Name": "Sassoon Hospital",
+  "City": "Pune",
+  "Latitude": 18.5204,
+  "Longitude": 73.8567,
+  "Emergency Helpline Number": "+91-20-2612 7391"
+ },
+ {
+  "Hospital Name": "Sancheti Hospital",
+  "City": "Pune",
+  "Latitude": 18.5204,
+  "Longitude": 73.8567,
+  "Emergency Helpline Number": "+91-20-2553 2222"
+ },
+ {
+  "Hospital Name": "ONP Leela Hospitals",
+  "City": "Pune",
+  "Latitude": 18.5204,
+  "Longitude": 73.8567,
+  "Emergency Helpline Number": "+91-20-6721 6721"
+ },
+ {
+  "Hospital Name": "KEM Hospital",
+  "City": "Pune",
+  "Latitude": 18.5204,
+  "Longitude": 73.8567,
+  "Emergency Helpline Number": "+91-20-2612 1212"
+ },
+ {
+  "Hospital Name": "Command Hospital (Southern Command)",
+  "City": "Pune",
+  "Latitude": 18.5204,
+  "Longitude": 73.8567,
+  "Emergency Helpline Number": "+91-20-2630 6000"
+ },
+ {
+  "Hospital Name": "PGIMER",
+  "City": "Chandigarh",
+  "Latitude": 30.7333,
+  "Longitude": 76.7794,
+  "Emergency Helpline Number": "+91-172-274 7585"
+ },
+ {
+  "Hospital Name": "Fortis Hospital, Mohali",
+  "City": "Chandigarh",
+  "Latitude": 30.7046,
+  "Longitude": 76.7179,
+  "Emergency Helpline Number": "+91-172-469 2222"
+ },
+ {
+  "Hospital Name": "Max Super Speciality Hospital",
+  "City": "Chandigarh",
+  "Latitude": 30.7333,
+  "Longitude": 76.7794,
+  "Emergency Helpline Number": "+91-172-665 2000"
+ },
+ {
+  "Hospital Name": "Ivy Hospital",
+  "City": "Chandigarh",
+  "Latitude": 30.7333,
+  "Longitude": 76.7794,
+  "Emergency Helpline Number": "+91-172-717 0000"
+ },
+ {
+  "Hospital Name": "Alchemist Hospital",
+  "City": "Chandigarh",
+  "Latitude": 30.7333,
+  "Longitude": 76.7794,
+  "Emergency Helpline Number": "+91-172-450 0000"
+ },
+ {
+  "Hospital Name": "Mukat Hospital",
+  "City": "Chandigarh",
+  "Latitude": 30.7333,
+  "Longitude": 76.7794,
+  "Emergency Helpline Number": "+91-172-434 4444"
+ },
+ {
+  "Hospital Name": "Healing Hospital",
+  "City": "Chandigarh",
+  "Latitude": 30.7333,
+  "Longitude": 76.7794,
+  "Emergency Helpline Number": "+91-172-266 7890"
+ },
+ {
+  "Hospital Name": "Bedi Hospital",
+  "City": "Chandigarh",
+  "Latitude": 30.7333,
+  "Longitude": 76.7794,
+  "Emergency Helpline Number": "+91-172-266 8111"
+ },
+ {
+  "Hospital Name": "Grecian Hospital",
+  "City": "Chandigarh",
+  "Latitude": 30.7333,
+  "Longitude": 76.7794,
+  "Emergency Helpline Number": "+91-172-469 6600"
+ },
+ {
+  "Hospital Name": "Chaitanya Hospital",
+  "City": "Chandigarh",
+  "Latitude": 30.7333,
+  "Longitude": 76.7794,
+  "Emergency Helpline Number": "+91-172-508 8088"
+ },
+ {
+  "Hospital Name": "CIMS Hospital",
+  "City": "Ahmedabad",
+  "Latitude": 23.07006,
+  "Longitude": 72.517395,
+  "Emergency Helpline Number": "+91-79-2771 2771"
+ },
+ {
+  "Hospital Name": "Zydus Hospitals",
+  "City": "Ahmedabad",
+  "Latitude": 23.058529,
+  "Longitude": 72.51751,
+  "Emergency Helpline Number": -7265
+ },
+ {
+  "Hospital Name": "Apollo Hospitals",
+  "City": "Ahmedabad",
+  "Latitude": 23.109509,
+  "Longitude": 72.62601,
+  "Emergency Helpline Number": "+91-79-6670 1800"
+ },
+ {
+  "Hospital Name": "Shalby Hospital",
+  "City": "Ahmedabad",
+  "Latitude": 23.03,
+  "Longitude": 72.53,
+  "Emergency Helpline Number": "+91-79-4020 3000"
+ },
+ {
+  "Hospital Name": "Sterling Hospital",
+  "City": "Ahmedabad",
+  "Latitude": 23.03,
+  "Longitude": 72.53,
+  "Emergency Helpline Number": "+91-79-4001 1111"
+ },
+ {
+  "Hospital Name": "KD Hospital",
+  "City": "Ahmedabad",
+  "Latitude": 23.03,
+  "Longitude": 72.53,
+  "Emergency Helpline Number": "+91-79-6661 6666"
+ },
+ {
+  "Hospital Name": "SAL Hospital",
+  "City": "Ahmedabad",
+  "Latitude": 23.03,
+  "Longitude": 72.53,
+  "Emergency Helpline Number": "+91-79-4020 4020"
+ },
+ {
+  "Hospital Name": "Narayana Multispeciality Hospital",
+  "City": "Ahmedabad",
+  "Latitude": 23.03,
+  "Longitude": 72.53,
+  "Emergency Helpline Number": "+91-79-7120 0000"
+ },
+ {
+  "Hospital Name": "HCG Cancer Centre",
+  "City": "Ahmedabad",
+  "Latitude": 23.03,
+  "Longitude": 72.53,
+  "Emergency Helpline Number": "+91-79-4020 4020"
+ },
+ {
+  "Hospital Name": "Medilink Hospital",
+  "City": "Ahmedabad",
+  "Latitude": 23.03,
+  "Longitude": 72.53,
+  "Emergency Helpline Number": "+91-79-2676 2676"
+ },
+ {
+  "Hospital Name": "Sri Ramakrishna Hospital",
+  "City": "Coimbatore",
+  "Latitude": 11.0168,
+  "Longitude": 76.9558,
+  "Emergency Helpline Number": "+91-422-238 8888"
+ },
+ {
+  "Hospital Name": "PSG Hospitals",
+  "City": "Coimbatore",
+  "Latitude": 11.0168,
+  "Longitude": 76.9558,
+  "Emergency Helpline Number": "+91-422-257 0170"
+ },
+ {
+  "Hospital Name": "Kovai Medical Center and Hospital",
+  "City": "Coimbatore",
+  "Latitude": 11.0168,
+  "Longitude": 76.9558,
+  "Emergency Helpline Number": "+91-422-432 3800"
+ },
+ {
+  "Hospital Name": "Ganga Hospital",
+  "City": "Coimbatore",
+  "Latitude": 11.0168,
+  "Longitude": 76.9558,
+  "Emergency Helpline Number": "+91-422-248 5000"
+ },
+ {
+  "Hospital Name": "KG Hospital",
+  "City": "Coimbatore",
+  "Latitude": 11.0168,
+  "Longitude": 76.9558,
+  "Emergency Helpline Number": "+91-422-221 2121"
+ },
+ {
+  "Hospital Name": "Royal Care Hospital",
+  "City": "Coimbatore",
+  "Latitude": 11.0168,
+  "Longitude": 76.9558,
+  "Emergency Helpline Number": "+91-422-450 0000"
+ },
+ {
+  "Hospital Name": "GEM Hospital",
+  "City": "Coimbatore",
+  "Latitude": 11.0168,
+  "Longitude": 76.9558,
+  "Emergency Helpline Number": "+91-422-232 4100"
+ },
+ {
+  "Hospital Name": "Coimbatore Medical College Hospital",
+  "City": "Coimbatore",
+  "Latitude": 11.0168,
+  "Longitude": 76.9558,
+  "Emergency Helpline Number": "+91-422-257 4375"
+ },
+ {
+  "Hospital Name": "Lotus Eye Hospital and Institute",
+  "City": "Coimbatore",
+  "Latitude": 11.0168,
+  "Longitude": 76.9558,
+  "Emergency Helpline Number": "+91-422-424 2000"
+ },
+ {
+  "Hospital Name": "VGM Hospital",
+  "City": "Coimbatore",
+  "Latitude": 11.0168,
+  "Longitude": 76.9558,
+  "Emergency Helpline Number": "+91-422-236 0300"
+ },
+ {
+  "Hospital Name": "Apollomedics Super Speciality Hospital",
+  "City": "Lucknow",
+  "Latitude": 26.79929,
+  "Longitude": 80.89453,
+  "Emergency Helpline Number": "+91-522-678 8888"
+ },
+ {
+  "Hospital Name": "Shekhar Hospital",
+  "City": "Lucknow",
+  "Latitude": 26.876678,
+  "Longitude": 80.9783,
+  "Emergency Helpline Number": "+91-522-235 2352"
+ },
+ {
+  "Hospital Name": "Shyama Prasad Mukharji Civil Hospital",
+  "City": "Lucknow",
+  "Latitude": 26.845028,
+  "Longitude": 80.94865,
+  "Emergency Helpline Number": "+91-522-225 7450"
+ },
+ {
+  "Hospital Name": "Sushma Hospital",
+  "City": "Lucknow",
+  "Latitude": 26.873549,
+  "Longitude": 81.00269,
+  "Emergency Helpline Number": "+91-522-270 1322"
+ },
+ {
+  "Hospital Name": "Sanjay Gandhi Postgraduate Institute of Medical Sciences",
+  "City": "Lucknow",
+  "Latitude": 26.7606,
+  "Longitude": 80.9462,
+  "Emergency Helpline Number": "+91-522-266 8700"
+ },
+ {
+  "Hospital Name": "King George’s Medical University",
+  "City": "Lucknow",
+  "Latitude": 26.8691,
+  "Longitude": 80.9192,
+  "Emergency Helpline Number": "+91-522-225 7540"
+ },
+ {
+  "Hospital Name": "Dr. Ram Manohar Lohia Institute of Medical Sciences",
+  "City": "Lucknow",
+  "Latitude": 26.853,
+  "Longitude": 80.9876,
+  "Emergency Helpline Number": "+91-522-491 8506"
+ },
+ {
+  "Hospital Name": "Lokbandhu Hospital",
+  "City": "Lucknow",
+  "Latitude": 26.7606,
+  "Longitude": 80.9462,
+  "Emergency Helpline Number": "+91-522-243 0486"
+ },
+ {
+  "Hospital Name": "Balrampur Hospital",
+  "City": "Lucknow",
+  "Latitude": 26.8691,
+  "Longitude": 80.9192,
+  "Emergency Helpline Number": "+91-522-225 3343"
+ },
+ {
+  "Hospital Name": "Indira Gandhi Eye Hospital",
+  "City": "Lucknow",
+  "Latitude": 26.853,
+  "Longitude": 80.9876,
+  "Emergency Helpline Number": "+91-522-491 8504"
+ },
+ {
+  "Hospital Name": "Apollo Hospitals",
+  "City": "Indore",
+  "Latitude": 22.7196,
+  "Longitude": 75.8577,
+  "Emergency Helpline Number": "+91-731-244 5566"
+ },
+ {
+  "Hospital Name": "Bombay Hospital",
+  "City": "Indore",
+  "Latitude": 22.7196,
+  "Longitude": 75.8577,
+  "Emergency Helpline Number": "+91-731-255 8855"
+ },
+ {
+  "Hospital Name": "Choithram Hospital",
+  "City": "Indore",
+  "Latitude": 22.7196,
+  "Longitude": 75.8577,
+  "Emergency Helpline Number": "+91-731-236 2491"
+ },
+ {
+  "Hospital Name": "Sri Aurobindo Institute of Medical Sciences",
+  "City": "Indore",
+  "Latitude": 22.7196,
+  "Longitude": 75.8577,
+  "Emergency Helpline Number": "+91-731-423 1000"
+ },
+ {
+  "Hospital Name": "Medanta Hospital",
+  "City": "Indore",
+  "Latitude": 22.7196,
+  "Longitude": 75.8577,
+  "Emergency Helpline Number": "+91-731-474 7474"
+ },
+ {
+  "Hospital Name": "CHL Hospital",
+  "City": "Indore",
+  "Latitude": 22.7196,
+  "Longitude": 75.8577,
+  "Emergency Helpline Number": "+91-731-253 3333"
+ },
+ {
+  "Hospital Name": "Greater Kailash Hospital",
+  "City": "Indore",
+  "Latitude": 22.7196,
+  "Longitude": 75.8577,
+  "Emergency Helpline Number": "+91-731-249 9000"
+ },
+ {
+  "Hospital Name": "Arihant Hospital",
+  "City": "Indore",
+  "Latitude": 22.7196,
+  "Longitude": 75.8577,
+  "Emergency Helpline Number": "+91-731-257 1717"
+ },
+ {
+  "Hospital Name": "Index Medical College Hospital",
+  "City": "Indore",
+  "Latitude": 22.7196,
+  "Longitude": 75.8577,
+  "Emergency Helpline Number": "+91-731-401 3000"
+ },
+ {
+  "Hospital Name": "Noble Hospital",
+  "City": "Indore",
+  "Latitude": 22.7196,
+  "Longitude": 75.8577,
+  "Emergency Helpline Number": "+91-731-255 8855"
+ },
+ {
+  "Hospital Name": "Aster Medcity",
+  "City": "Kochi",
+  "Latitude": 10.0438,
+  "Longitude": 76.2777,
+  "Emergency Helpline Number": "+91-484-669 9999"
+ },
+ {
+  "Hospital Name": "Amrita Institute of Medical Sciences",
+  "City": "Kochi",
+  "Latitude": 10.0336,
+  "Longitude": 76.2917,
+  "Emergency Helpline Number": "+91-484-285 1234"
+ },
+ {
+  "Hospital Name": "VPS Lakeshore Hospital",
+  "City": "Kochi",
+  "Latitude": 9.9312,
+  "Longitude": 76.2673,
+  "Emergency Helpline Number": "+91-484-270 1032"
+ },
+ {
+  "Hospital Name": "Rajagiri Hospital",
+  "City": "Kochi",
+  "Latitude": 10.0366,
+  "Longitude": 76.3084,
+  "Emergency Helpline Number": "+91-484-290 5000"
+ },
+ {
+  "Hospital Name": "Medical Trust Hospital",
+  "City": "Kochi",
+  "Latitude": 9.9664,
+  "Longitude": 76.2836,
+  "Emergency Helpline Number": "+91-484-235 8001"
+ },
+ {
+  "Hospital Name": "Lisie Hospital",
+  "City": "Kochi",
+  "Latitude": 9.9904,
+  "Longitude": 76.2857,
+  "Emergency Helpline Number": "+91-484-240 4371"
+ },
+ {
+  "Hospital Name": "Lourdes Hospital",
+  "City": "Kochi",
+  "Latitude": 9.9664,
+  "Longitude": 76.2836,
+  "Emergency Helpline Number": "+91-484-412 3456"
+ },
+ {
+  "Hospital Name": "Specialists’ Hospital",
+  "City": "Kochi",
+  "Latitude": 9.9904,
+  "Longitude": 76.2857,
+  "Emergency Helpline Number": "+91-484-288 7800"
+ },
+ {
+  "Hospital Name": "Silverline Hospital",
+  "City": "Kochi",
+  "Latitude": 9.9656,
+  "Longitude": 76.3003,
+  "Emergency Helpline Number": "+91-95391 18118"
+ },
+ {
+  "Hospital Name": "Lakshmi Hospital",
+  "City": "Kochi",
+  "Latitude": 9.9664,
+  "Longitude": 76.2836,
+  "Emergency Helpline Number": "+91-484-238 2111"
+ },
+ {
+  "Hospital Name": "Himalayan Hospital",
+  "City": "Dehradun",
+  "Latitude": 30.3165,
+  "Longitude": 78.0322,
+  "Emergency Helpline Number": "+91-135-247 1225"
+ },
+ {
+  "Hospital Name": "Max Super Speciality Hospital",
+  "City": "Dehradun",
+  "Latitude": 30.3165,
+  "Longitude": 78.0322,
+  "Emergency Helpline Number": "+91-135-667 3000"
+ },
+ {
+  "Hospital Name": "Shri Mahant Indiresh Hospital",
+  "City": "Dehradun",
+  "Latitude": 30.3165,
+  "Longitude": 78.0322,
+  "Emergency Helpline Number": "+91-135-667 2400"
+ },
+ {
+  "Hospital Name": "Synergy Institute of Medical Science",
+  "City": "Dehradun",
+  "Latitude": 30.3165,
+  "Longitude": 78.0322,
+  "Emergency Helpline Number": "+91-135-667 4000"
+ },
+ {
+  "Hospital Name": "Kanishk Surgical & Super Speciality Hospital",
+  "City": "Dehradun",
+  "Latitude": 30.3165,
+  "Longitude": 78.0322,
+  "Emergency Helpline Number": "+91-135-667 5000"
+ },
+ {
+  "Hospital Name": "Luthra Maternity & Infertility Centre",
+  "City": "Dehradun",
+  "Latitude": 30.3165,
+  "Longitude": 78.0322,
+  "Emergency Helpline Number": "+91-135-667 6000"
+ },
+ {
+  "Hospital Name": "Healing Touch Nursing Home",
+  "City": "Dehradun",
+  "Latitude": 30.3165,
+  "Longitude": 78.0322,
+  "Emergency Helpline Number": "+91-135-667 7000"
+ },
+ {
+  "Hospital Name": "Arihant Hospital",
+  "City": "Dehradun",
+  "Latitude": 30.3165,
+  "Longitude": 78.0322,
+  "Emergency Helpline Number": "+91-135-667 8000"
+ },
+ {
+  "Hospital Name": "Synergy Hospital",
+  "City": "Dehradun",
+  "Latitude": 30.3165,
+  "Longitude": 78.0322,
+  "Emergency Helpline Number": "+91-135-667 9000"
+ },
+ {
+  "Hospital Name": "Doon Hospital",
+  "City": "Dehradun",
+  "Latitude": 30.3165,
+  "Longitude": 78.0322,
+  "Emergency Helpline Number": "+91-135-667 1000"
+ },
+ {
+  "Hospital Name": "Sawai Man Singh Hospital",
+  "City": "Jaipur",
+  "Latitude": 26.9124,
+  "Longitude": 75.7873,
+  "Emergency Helpline Number": "+91-141-256 0291"
+ },
+ {
+  "Hospital Name": "Fortis Escorts Hospital",
+  "City": "Jaipur",
+  "Latitude": 26.9124,
+  "Longitude": 75.7873,
+  "Emergency Helpline Number": "+91-141-254 7000"
+ },
+ {
+  "Hospital Name": "Narayana Multispeciality Hospital",
+  "City": "Jaipur",
+  "Latitude": 26.9124,
+  "Longitude": 75.7873,
+  "Emergency Helpline Number": "+91-141-517 4000"
+ },
+ {
+  "Hospital Name": "Apex Hospital",
+  "City": "Jaipur",
+  "Latitude": 26.9124,
+  "Longitude": 75.7873,
+  "Emergency Helpline Number": "+91-141-276 1111"
+ },
+ {
+  "Hospital Name": "EHCC Hospital",
+  "City": "Jaipur",
+  "Latitude": 26.9124,
+  "Longitude": 75.7873,
+  "Emergency Helpline Number": "+91-141-517 4000"
+ },
+ {
+  "Hospital Name": "Mahatma Gandhi Hospital",
+  "City": "Jaipur",
+  "Latitude": 26.9124,
+  "Longitude": 75.7873,
+  "Emergency Helpline Number": "+91-141-277 0798"
+ },
+ {
+  "Hospital Name": "Manipal Hospital",
+  "City": "Jaipur",
+  "Latitude": 26.9124,
+  "Longitude": 75.7873,
+  "Emergency Helpline Number": "+91-141-660 1111"
+ },
+ {
+  "Hospital Name": "Santokba Durlabhji Memorial Hospital",
+  "City": "Jaipur",
+  "Latitude": 26.9124,
+  "Longitude": 75.7873,
+  "Emergency Helpline Number": "+91-141-256 6251"
+ },
+ {
+  "Hospital Name": "Rukmani Birla Hospital",
+  "City": "Jaipur",
+  "Latitude": 26.9124,
+  "Longitude": 75.7873,
+  "Emergency Helpline Number": "+91-141-272 1111"
+ },
+ {
+  "Hospital Name": "CKS Hospital",
+  "City": "Jaipur",
+  "Latitude": 26.9124,
+  "Longitude": 75.7873,
+  "Emergency Helpline Number": "+91-141-331 3233"
+ },
+ {
+  "Hospital Name": "Amandeep Hospital",
+  "City": "Amritsar",
+  "Latitude": 31.6343,
+  "Longitude": 74.8597,
+  "Emergency Helpline Number": "+91-183-505 0000"
+ },
+ {
+  "Hospital Name": "Fortis Escorts Hospital",
+  "City": "Amritsar",
+  "Latitude": 31.6343,
+  "Longitude": 74.8597,
+  "Emergency Helpline Number": "+91-183-301 2222"
+ },
+ {
+  "Hospital Name": "Ivy Hospital",
+  "City": "Amritsar",
+  "Latitude": 31.6343,
+  "Longitude": 74.8597,
+  "Emergency Helpline Number": "+91-183-506 1111"
+ },
+ {
+  "Hospital Name": "EMC Super Speciality Hospital",
+  "City": "Amritsar",
+  "Latitude": 31.6343,
+  "Longitude": 74.8597,
+  "Emergency Helpline Number": "+91-183-506 0000"
+ },
+ {
+  "Hospital Name": "Hartej Hospital",
+  "City": "Amritsar",
+  "Latitude": 31.6343,
+  "Longitude": 74.8597,
+  "Emergency Helpline Number": "+91-183-250 3613"
+ },
+ {
+  "Hospital Name": "Smt. Paarvati Devi Hospital",
+  "City": "Amritsar",
+  "Latitude": 31.6343,
+  "Longitude": 74.8597,
+  "Emergency Helpline Number": "+91-183-509 6601"
+ },
+ {
+  "Hospital Name": "Uppal Neuro Hospital",
+  "City": "Amritsar",
+  "Latitude": 31.6343,
+  "Longitude": 74.8597,
+  "Emergency Helpline Number": "+91-183-250 3613"
+ },
+ {
+  "Hospital Name": "Altec Hospital",
+  "City": "Amritsar",
+  "Latitude": 31.6343,
+  "Longitude": 74.8597,
+  "Emergency Helpline Number": "+91-183-250 3613"
+ },
+ {
+  "Hospital Name": "Dr. Vidya Sagar Hospital",
+  "City": "Amritsar",
+  "Latitude": 31.6343,
+  "Longitude": 74.8597,
+  "Emergency Helpline Number": "+91-183-250 3613"
+ },
+ {
+  "Hospital Name": "Sarathi Hospital",
+  "City": "Assam",
+  "Latitude": 26.2679,
+  "Longitude": 91.6793,
+  "Emergency Helpline Number": "+91-70868 80554"
+ },
+ {
+  "Hospital Name": "Pratiksha Hospital",
+  "City": "Assam",
+  "Latitude": 26.1585,
+  "Longitude": 91.8119,
+  "Emergency Helpline Number": "+91-361-710 1600"
+ },
+ {
+  "Hospital Name": "Excelcare Hospitals",
+  "City": "Assam",
+  "Latitude": 26.1266,
+  "Longitude": 91.6809,
+  "Emergency Helpline Number": "+91-361-714 0101"
+ },
+ {
+  "Hospital Name": "Dewcare Hospital & Research Centre",
+  "City": "Assam",
+  "Latitude": 26.3662,
+  "Longitude": 92.6959,
+  "Emergency Helpline Number": "+91-70868 03380"
+ },
+ {
+  "Hospital Name": "GNRC Hospital",
+  "City": "Assam",
+  "Latitude": 26.1445,
+  "Longitude": 91.7362,
+  "Emergency Helpline Number": "+91-361-222 7700"
+ },
+ {
+  "Hospital Name": "Nemcare Hospital",
+  "City": "Assam",
+  "Latitude": 26.1445,
+  "Longitude": 91.7362,
+  "Emergency Helpline Number": "+91-361-252 8588"
+ },
+ {
+  "Hospital Name": "Dispur Hospital",
+  "City": "Assam",
+  "Latitude": 26.1445,
+  "Longitude": 91.7362,
+  "Emergency Helpline Number": "+91-361-223 5916"
+ },
+ {
+  "Hospital Name": "Hayat Hospital",
+  "City": "Assam",
+  "Latitude": 26.1445,
+  "Longitude": 91.7362,
+  "Emergency Helpline Number": "+91-361-252 8588"
+ },
+ {
+  "Hospital Name": "Down Town Hospital",
+  "City": "Assam",
+  "Latitude": 26.1445,
+  "Longitude": 91.7362,
+  "Emergency Helpline Number": "+91-361-233 1000"
+ },
+ {
+  "Hospital Name": "Arya Hospital",
+  "City": "Assam",
+  "Latitude": 26.1445,
+  "Longitude": 91.7362,
+  "Emergency Helpline Number": "+91-361-245 1634"
+ },
+ {
+  "Hospital Name": "Santevita Hospital",
+  "City": "Ranchi",
+  "Latitude": 23.3709,
+  "Longitude": 85.3263,
+  "Emergency Helpline Number": "+91-651-301 1111"
+ },
+ {
+  "Hospital Name": "Bhagwan Mahavir Medica Superspecialty Hospital",
+  "City": "Ranchi",
+  "Latitude": 23.3959,
+  "Longitude": 85.3779,
+  "Emergency Helpline Number": "+91-651-660 6000"
+ },
+ {
+  "Hospital Name": "Raj Hospitals",
+  "City": "Ranchi",
+  "Latitude": 23.3565,
+  "Longitude": 85.3227,
+  "Emergency Helpline Number": "+91-97714 88888"
+ },
+ {
+  "Hospital Name": "Orchid Medical Centre",
+  "City": "Ranchi",
+  "Latitude": 23.3709,
+  "Longitude": 85.3263,
+  "Emergency Helpline Number": "+91-651-710 0100"
+ },
+ {
+  "Hospital Name": "Apollo Hospitals Group",
+  "City": "Ranchi",
+  "Latitude": 23.3709,
+  "Longitude": 85.3263,
+  "Emergency Helpline Number": "+91-651-301 1111"
+ },
+ {
+  "Hospital Name": "Hill View Hospital",
+  "City": "Ranchi",
+  "Latitude": 23.3709,
+  "Longitude": 85.3263,
+  "Emergency Helpline Number": "+91-651-301 1111"
+ },
+ {
+  "Hospital Name": "Bharati Hospital",
+  "City": "Ranchi",
+  "Latitude": 23.3709,
+  "Longitude": 85.3263,
+  "Emergency Helpline Number": "+91-651-301 1111"
+ },
+ {
+  "Hospital Name": "Anjuman Islamia Hospital",
+  "City": "Ranchi",
+  "Latitude": 23.3709,
+  "Longitude": 85.3263,
+  "Emergency Helpline Number": "+91-651-301 1111"
+ },
+ {
+  "Hospital Name": "Ranchi Medical College Hospital",
+  "City": "Ranchi",
+  "Latitude": 23.3709,
+  "Longitude": 85.3263,
+  "Emergency Helpline Number": "+91-651-301 1111"
+ },
+ {
+  "Hospital Name": "Sadar Hospital",
+  "City": "Ranchi",
+  "Latitude": 23.3709,
+  "Longitude": 85.3263,
+  "Emergency Helpline Number": "+91-651-301 1111"
+ },
+ {
+  "Hospital Name": "Apollo Health City",
+  "City": "Visakhapatnam",
+  "Latitude": 17.6868,
+  "Longitude": 83.2185,
+  "Emergency Helpline Number": "+91-891-272 7272"
+ },
+ {
+  "Hospital Name": "Omni RK Super Speciality Hospital",
+  "City": "Visakhapatnam",
+  "Latitude": 17.6868,
+  "Longitude": 83.2185,
+  "Emergency Helpline Number": "+91-891-272 7272"
+ },
+ {
+  "Hospital Name": "Mahatma Gandhi Cancer Hospital & Research Institute",
+  "City": "Visakhapatnam",
+  "Latitude": 17.6868,
+  "Longitude": 83.2185,
+  "Emergency Helpline Number": "+91-891-272 7272"
+ },
+ {
+  "Hospital Name": "Seven Hills Hospitals",
+  "City": "Visakhapatnam",
+  "Latitude": 17.6868,
+  "Longitude": 83.2185,
+  "Emergency Helpline Number": "+91-891-272 7272"
+ },
+ {
+  "Hospital Name": "Mycure Hospital",
+  "City": "Visakhapatnam",
+  "Latitude": 17.6868,
+  "Longitude": 83.2185,
+  "Emergency Helpline Number": "+91-891-272 7272"
+ },
+ {
+  "Hospital Name": "Medicover Hospitals",
+  "City": "Visakhapatnam",
+  "Latitude": 17.6868,
+  "Longitude": 83.2185,
+  "Emergency Helpline Number": "+91-891-272 7272"
+ },
+ {
+  "Hospital Name": "Rainbow Children’s Hospital & Birthright by Rainbow",
+  "City": "Visakhapatnam",
+  "Latitude": 17.6868,
+  "Longitude": 83.2185,
+  "Emergency Helpline Number": "+91-891-272 7272"
+ },
+ {
+  "Hospital Name": "Apollo Hospital, Vizag",
+  "City": "Visakhapatnam",
+  "Latitude": 17.6868,
+  "Longitude": 83.2185,
+  "Emergency Helpline Number": "+91-891-272 7272"
+ },
+ {
+  "Hospital Name": "HCG Cancer Centre",
+  "City": "Visakhapatnam",
+  "Latitude": 17.6868,
+  "Longitude": 83.2185,
+  "Emergency Helpline Number": "+91-891-272 7272"
+ },
+ {
+  "Hospital Name": "Medicover Woman & Child Hospitals",
+  "City": "Visakhapatnam",
+  "Latitude": 17.6868,
+  "Longitude": 83.2185,
+  "Emergency Helpline Number": "+91-891-272 7272"
+ }
+]
+}
