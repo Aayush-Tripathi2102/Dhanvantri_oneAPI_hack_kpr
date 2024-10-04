@@ -99,3 +99,28 @@
 .gradient-text:hover {
   background-position: -100% 0;
 }
+
+/* Custom scrollbar styles */
+.scrollbar-thin::-webkit-scrollbar {
+  height: 4px;
+  /* Height of the horizontal scrollbar */
+}
+
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.6);
+  /* Color of the scrollbar thumb */
+  border-radius: 4px;
+  /* Fully rounded */
+}
+
+.scrollbar-thin::-webkit-scrollbar-track {
+  background-color: transparent;
+  /* Background of the scrollbar track */
+}
+
+/* Firefox scrollbar styles */
+.scrollbar-thin {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(0, 0, 18, 0.6) transparent;
+  /* thumb color and track color */
+}

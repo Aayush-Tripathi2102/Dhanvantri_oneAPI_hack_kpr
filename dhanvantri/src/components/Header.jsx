@@ -27,29 +27,44 @@ const Header = () => {
               <NavLink
                 key={item.id}
                 to={item.url}
-                className={`block relative text-2xl ${
-                  item.ai ? "" : "uppercase text-n-1/50 transition-colors hover:text-color-1 px-6 py-6 md:py-8 lg:mr-0.25 lg:text-xs lg:font-semibold lg:leading-5 lg:hover:text-color-1 xl:px-12"} ${
-                  item.ai &&
-                  "lg:text-xl lg:leading-5 px-6 py-6 md:py-8 lg:mr-0.25 lg:font-bold lg:bg-gradient-to-r from-yellow-400 to-purple-600 lg:bg-clip-text lg:text-transparent lg:hover:text-transparent "
-                }`}
+                className={({ isActive }) =>
+                  `block relative text-2xl ${
+                    item.ai
+                      ? ""
+                      : "uppercase text-n-1/50 transition-colors hover:text-color-1 px-6 py-6 md:py-8 lg:mr-0.25 lg:text-xs lg:font-semibold lg:leading-5 lg:hover:text-color-1 xl:px-12"
+                  } 
+    ${
+      item.ai &&
+      "lg:text-xl lg:leading-5 px-6 py-6 md:py-8 lg:mr-0.25 lg:font-bold lg:bg-gradient-to-r from-yellow-400 to-purple-600 lg:bg-clip-text lg:text-transparent lg:hover:text-transparent "
+    } 
+    ${isActive ? "text-n-2" : ""}`
+                }
               >
                 {item.title}
               </NavLink>
             ))}
           </div>
         </nav>
-        <Link
+        <NavLink
           to="/signup"
-          className="button hidden mr-8 text-n-1/50 transition-colors hover:text-n-1 lg:block"
+          className={({ isActive }) =>
+            `button hidden mr-8 text-n-1/50 transition-colors hover:text-n-1 lg:block ${
+              isActive ? "font-bold text-n-2" : ""
+            }`
+          }
         >
           New Account
-        </Link>
-        <Link
+        </NavLink>
+        <NavLink
           to="/login"
-          className="button hidden mr-8 text-n-1/50 transition-colors hover:text-n-1 lg:block"
+          className={({ isActive }) =>
+            `button hidden mr-8 text-n-1/50 transition-colors hover:text-n-1 lg:block ${
+              isActive ? "font-bold text-n-2" : ""
+            }`
+          }
         >
           Sign in
-        </Link>
+        </NavLink>
       </div>
     </div>
   );
