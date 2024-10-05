@@ -1,36 +1,26 @@
 {
   "cases": [
-    "Patient has a fever and persistent cough",
-    "Diabetes diagnosis confirmed",
-    "Hypertension and chest pain",
-    "Asthma patient requires inhaler",
-    "Flu symptoms and body ache",
-    "Patient experiencing chest pain and shortness of breath",
-    "Patient reports irregular menstrual cycles and pelvic pain",
-    "Patient with swollen joints and morning stiffness",
-    "Patient reports blurred vision and eye discomfort",
-    "Patient has a rash and persistent itching",
-    "Patient complains of earache and nasal congestion",
-    "Patient reports knee pain and difficulty walking",
-    "Patient has frequent headaches and dizziness",
-    "Patient diagnosed with a tumor and requires further investigation",
-    "Child presenting with high fever and lethargy"
+    "diabetes",
+    "hypertension",
+    "asthma",
+    "allergy",
+    "arthritis",
+    "migraine",
+    "pneumonia",
+    "depression",
+    "back pain",
+    "cancer"
   ],
-  "labels": [
-    "General Physician",
+  "specialists": [
     "Endocrinologist",
     "Cardiologist",
     "Pulmonologist",
-    "General Physician",
-    "Cardiologist",
-    "Gynecologist",
+    "Allergist",
     "Rheumatologist",
-    "Ophthalmologist",
-    "Dermatologist",
-    "ENT Specialist",
-    "Orthopedic Specialist",
     "Neurologist",
-    "Oncologist",
-    "Pediatrician"
+    "Pulmonologist",
+    "Psychiatrist",
+    "Orthopedic",
+    "Oncologist"
   ]
 }
