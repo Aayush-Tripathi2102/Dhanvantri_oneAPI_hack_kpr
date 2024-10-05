@@ -33,6 +33,14 @@ This website is designed for medical purposes, providing users with essential he
 - *Image Processing*: Tesseract.js or other OCR (Optical Character Recognition) library for scanning prescriptions
 - *Authentication*: JWT-based authentication for secure login and user session management
 
+## UI/UX Design
+- https://www.canva.com/design/DAGRNlEn0KA/v5MXasTqWmJ3rii3EAalaQ/edit
+- https://www.canva.com/design/DAGRCf8l6i8/0YmsFe-L2jq8T9IbkKETzg/edit
+- https://www.canva.com/design/DAGRCH6WfH8/VZjEwS2tMJ5_f5tZS4adIw/edit
+- https://www.canva.com/design/DAGRAY0wC9w/R4Pbw56AGa-Qa4iu5eqbtQ/edit
+- https://www.canva.com/design/DAGRAl_QgHM/BPWnBdvcD1sPno4WoDcQuQ/edit
+- https://www.canva.com/design/DAGSmmjhtGU/Kj-J6HeQtGXRE-lO8bncow/edit
+
 ## Setup and Installation
 To run the project locally, follow these steps:
 
