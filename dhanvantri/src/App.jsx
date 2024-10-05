@@ -8,6 +8,7 @@ import Emergency from "./components/Emergency";
 import Ved from "./components/Ved";
 import Account from "./components/Account";
 import Specialists from "./components/Specialists";
+import BookSpecialist from "./components/BookSpecialist";
 
 function App() {
   const router = createBrowserRouter([
@@ -80,6 +81,15 @@ function App() {
         <>
           <Header />
           <Specialists />
+        </>
+      ),
+    },
+    {
+      path: "/BookSpecialist",
+      element: (
+        <>
+          <Header />
+          <BookSpecialist />
         </>
       ),
     },

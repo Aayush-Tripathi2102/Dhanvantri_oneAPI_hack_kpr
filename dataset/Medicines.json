@@ -1,0 +1,202 @@
+[
+ {
+  "MedicineName": "Paracetamol",
+  "Price": "20"
+ },
+ {
+  "MedicineName": "Crocin",
+  "Price": "30"
+ },
+ {
+  "MedicineName": "Combiflam",
+  "Price": "50"
+ },
+ {
+  "MedicineName": "Ibuprofen",
+  "Price": "25"
+ },
+ {
+  "MedicineName": "Amoxicillin",
+  "Price": "60"
+ },
+ {
+  "MedicineName": "Cetirizine",
+  "Price": "15"
+ },
+ {
+  "MedicineName": "Metformin",
+  "Price": "40"
+ },
+ {
+  "MedicineName": "Amlodipine",
+  "Price": "35"
+ },
+ {
+  "MedicineName": "Omeprazole",
+  "Price": "45"
+ },
+ {
+  "MedicineName": "Atorvastatin",
+  "Price": "70"
+ },
+ {
+  "MedicineName": "Azithromycin",
+  "Price": "90"
+ },
+ {
+  "MedicineName": "Levocetirizine",
+  "Price": "20"
+ },
+ {
+  "MedicineName": "Montelukast",
+  "Price": "50"
+ },
+ {
+  "MedicineName": "Pantoprazole",
+  "Price": "55"
+ },
+ {
+  "MedicineName": "Losartan",
+  "Price": "60"
+ },
+ {
+  "MedicineName": "Clopidogrel",
+  "Price": "80"
+ },
+ {
+  "MedicineName": "Diclofenac",
+  "Price": "30"
+ },
+ {
+  "MedicineName": "Ranitidine",
+  "Price": "25"
+ },
+ {
+  "MedicineName": "Furosemide",
+  "Price": "35"
+ },
+ {
+  "MedicineName": "Doxycycline",
+  "Price": "50"
+ },
+ {
+  "MedicineName": "Lisinopril",
+  "Price": "40"
+ },
+ {
+  "MedicineName": "Metoprolol",
+  "Price": "45"
+ },
+ {
+  "MedicineName": "Simvastatin",
+  "Price": "65"
+ },
+ {
+  "MedicineName": "Hydrochlorothiazide",
+  "Price": "30"
+ },
+ {
+  "MedicineName": "Gabapentin",
+  "Price": "70"
+ },
+ {
+  "MedicineName": "Tramadol",
+  "Price": "80"
+ },
+ {
+  "MedicineName": "Prednisone",
+  "Price": "50"
+ },
+ {
+  "MedicineName": "Warfarin",
+  "Price": "60"
+ },
+ {
+  "MedicineName": "Alprazolam",
+  "Price": "40"
+ },
+ {
+  "MedicineName": "Loratadine",
+  "Price": "20"
+ },
+ {
+  "MedicineName": "Fluoxetine",
+  "Price": "70"
+ },
+ {
+  "MedicineName": "Sertraline",
+  "Price": "80"
+ },
+ {
+  "MedicineName": "Tamsulosin",
+  "Price": "90"
+ },
+ {
+  "MedicineName": "Finasteride",
+  "Price": "100"
+ },
+ {
+  "MedicineName": "Sildenafil",
+  "Price": "150"
+ },
+ {
+  "MedicineName": "Tadalafil",
+  "Price": "200"
+ },
+ {
+  "MedicineName": "Insulin",
+  "Price": "300"
+ },
+ {
+  "MedicineName": "Glimepiride",
+  "Price": "40"
+ },
+ {
+  "MedicineName": "Rosuvastatin",
+  "Price": "80"
+ },
+ {
+  "MedicineName": "Esomeprazole",
+  "Price": "60"
+ },
+ {
+  "MedicineName": "Valsartan",
+  "Price": "70"
+ },
+ {
+  "MedicineName": "Enalapril",
+  "Price": "50"
+ },
+ {
+  "MedicineName": "Atenolol",
+  "Price": "30"
+ },
+ {
+  "MedicineName": "Clonazepam",
+  "Price": "60"
+ },
+ {
+  "MedicineName": "Diazepam",
+  "Price": "50"
+ },
+ {
+  "MedicineName": "Lorazepam",
+  "Price": "70"
+ },
+ {
+  "MedicineName": "Zolpidem",
+  "Price": "80"
+ },
+ {
+  "MedicineName": "Meloxicam",
+  "Price": "40"
+ },
+ {
+  "MedicineName": "Naproxen",
+  "Price": "50"
+ },
+ {
+  "MedicineName": "Aspirin",
+  "Price": "20"
+ }
+]

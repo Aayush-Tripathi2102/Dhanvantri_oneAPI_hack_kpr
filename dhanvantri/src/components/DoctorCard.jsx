@@ -1,5 +1,6 @@
 import React from "react";
 import logo from "../assets/docLogo.png";
+import { Link } from "react-router-dom";
 
 const DoctorCard = ({ doctor }) => {
   return (
@@ -11,12 +12,15 @@ const DoctorCard = ({ doctor }) => {
               src={logo}
               alt="docLogo"
               width={100}
-              className="rounded-full mb-5"
+              className="rounded-full mb-16"
             />
           </div>
-          <button className="bg-[#84e4a8] hover:bg-[#7fdba2] transition-colors text-black font-bold mt-5 w-32 border-2 border-[#1022ac] rounded-md ">
-            Book An Appointment
-          </button>
+          <Link
+            to="/BookSpecialist"
+            className="bg-[#84e4a8] hover:bg-[#7fdba2] transition-colors py-3  text-black font-bold mt-11 w-16 border-2 border-[#1022ac] rounded-md "
+          >
+            Book An {"\n"} Appointment
+          </Link>
         </div>
         <div className="ml-3 pt-3">
           <div className="pb-3">
